@@ -12,4 +12,4 @@ best to have as much information as possible when dealing with either potential 
 - a syntax error is a compiler error that occurs at compile-time when your program violates the grammar rules of the C++ language
 - a library is a modular file; a collection of precompiled code that has been packaged together for reuse
 - single line comment with a double forward slash
-- multi-line comments with and forward slash asterisk, and end with asterisk forward slash
+- multi-line comments with a forward slash asterisk, and end with asterisk forward slash
