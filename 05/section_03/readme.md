@@ -1,0 +1,1 @@
+https://www.learncpp.com/cpp-tutorial/5-3-modulus-and-exponentiation/
