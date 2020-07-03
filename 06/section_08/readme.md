@@ -1,0 +1,1 @@
+https://www.learncpp.com/cpp-tutorial/global-constants-and-inline-variables/

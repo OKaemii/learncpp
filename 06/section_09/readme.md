@@ -1,0 +1,1 @@
+https://www.learncpp.com/cpp-tutorial/why-global-variables-are-evil/
