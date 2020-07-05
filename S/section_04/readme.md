@@ -1,0 +1,1 @@
+https://www.learncpp.com/cpp-tutorial/4-5a-enum-classes/
